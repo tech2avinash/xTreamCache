@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XtreamCache.Actors", "DCSCache\XtreamCache.Actors.csproj", "{067934A1-1CD6-460F-8A25-D78D8D1AEDB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtreamCache.Web", "XtreamCache.Web\XtreamCache.Web.csproj", "{03F198B0-51D2-46CE-9A9B-887070F4BCC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{067934A1-1CD6-460F-8A25-D78D8D1AEDB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{067934A1-1CD6-460F-8A25-D78D8D1AEDB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{067934A1-1CD6-460F-8A25-D78D8D1AEDB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{067934A1-1CD6-460F-8A25-D78D8D1AEDB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03F198B0-51D2-46CE-9A9B-887070F4BCC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03F198B0-51D2-46CE-9A9B-887070F4BCC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03F198B0-51D2-46CE-9A9B-887070F4BCC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03F198B0-51D2-46CE-9A9B-887070F4BCC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7C33EAF-B10E-4CD6-B75E-9F55D34E8C72}
+	EndGlobalSection
+EndGlobal
